@@ -1,0 +1,12 @@
+/target/
+.vertx
+.settings
+.classpath
+.project
+
+logs
+
+
+# idea
+.idea
+*.iml
