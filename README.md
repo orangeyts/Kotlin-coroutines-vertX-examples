@@ -1,6 +1,9 @@
 # Vert.x Kotlin 官方协程样例
 
-https://github.com/vert-x3/vertx-examples/tree/master/kotlin-examples/coroutines 原项目地址,由于自己要修改代码所以单独建立了一个仓库
+[vertx and kotlin](https://github.com/vert-x3/vertx-examples/tree/master/kotlin-examples/coroutines) 原项目地址,由于自己要修改代码所以单独建立了一个仓库
+
+[kotlin 协程官方文档](http://kotlinlang.org/docs/reference/coroutines.html#generators-api-in-kotlincoroutines)
+[kotlin 协程设计文档](https://github.com/Kotlin/kotlin-coroutines/blob/master/kotlin-coroutines-informal.md)
 
 一个电影投票的Rest应用,示例了 [Kotlin](https://kotlinlang.org/) 协程如何在Vert.x中使用
 
